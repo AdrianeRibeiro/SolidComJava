@@ -1,4 +1,4 @@
-# Revisão Conceitos POO:
+# Revisão Conceitos POO
 
 <br>
 
